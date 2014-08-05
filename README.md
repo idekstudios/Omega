@@ -10,3 +10,14 @@ Stuff is going down up in here
 - [ ] Tell Julie about the goals
 - [ ] I was serious about the procrastinating
 - [ ] Seriously you jerks
+
+### Fo' Real Task List My Homies
+- Main Interface
+- Story
+- Unit Design
+    - [ ] Illustration
+    - [ ] Decide stats
+- Scene Design
+- Core Game Creation
+    - [ ] Motion
+- Final Details
