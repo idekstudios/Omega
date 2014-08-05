@@ -1,9 +1,9 @@
-#### Omega
+# Omega
 =====
 
 Stuff is going down up in here
 
-# Task List
+### Task List
 - [ ] Discuss game with Marc
 - [ ] Stop procrastinating
 - [ ] Come up with a few goals
